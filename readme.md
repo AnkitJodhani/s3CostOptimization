@@ -99,8 +99,8 @@ For a detailed explanation of this project, read my blog post:
 
 ## 👋 Connect With Me
 
-- LinkedIn: [Ankit Jodhani](https://www.linkedin.com/in/ankitjodhani/)
-- Twitter/X: [@ankitjodhani19](https://twitter.com/ankitjodhani19)
+- LinkedIn: [Ankit Jodhani](https://www.linkedin.com/in/ankit-jodhani/)
+- Twitter/X: [@ankitjodhani19](https://x.com/Ankit__Jodhani)
 - Email: ankitjodhani1903@gmail.com
 - Blog: [blog.ankitjodhani.com](https://blog.ankitjodhani.com)
 
